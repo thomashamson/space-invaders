@@ -1,2 +1,2 @@
-# space-invaders
-A space invaders game in pure JavaScript.
+# Space Invaders
+> A space invaders game in pure JavaScript.
